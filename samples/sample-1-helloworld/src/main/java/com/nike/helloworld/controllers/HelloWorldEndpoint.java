@@ -1,4 +1,4 @@
-package com.nike.helloworld;
+package com.nike.helloworld.controllers;
 
 import com.nike.riposte.server.http.RequestInfo;
 import com.nike.riposte.server.http.ResponseInfo;

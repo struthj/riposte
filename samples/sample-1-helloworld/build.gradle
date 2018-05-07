@@ -4,7 +4,8 @@ dependencies {
     compile(
             project(":riposte-core"),
             "ch.qos.logback:logback-classic:$logbackVersion",
-            "ch.qos.logback:logback-core:$logbackVersion"
+            "ch.qos.logback:logback-core:$logbackVersion",
+            "com.google.code.gson:gson:2.8.4"
     )
 
     testCompile (
